@@ -10,7 +10,7 @@ logger:
 external_components:
   - source:
       type: git
-      url: https://github.com/u-fire/ESPHomeComponents/
+      url: https://github.com/sakalsa/ESPHomeComponents/
 
 now_mqtt_bridge:
 
